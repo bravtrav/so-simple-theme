@@ -2,19 +2,13 @@
 
 - title: Home
   url: /
- - title: Blabla
-  url: / 
 - title: Posts
-   url: /posts/
-- title: Pages
-   url: /pages/
+  url: /posts/
 - title: Categories
-   url: /categories/
-- title: Tags
-   url: /tags/
-- title: Recipes
-   url: /recipes/
-- title: Search
-   url: /search/
+  url: /categories/
 - title: External Page
-   url: https://the-page.com/you-want-to-link-to.html
+  url: https://whatever-site.com/page.html
+- title: Search
+  url: /search/
+
+
