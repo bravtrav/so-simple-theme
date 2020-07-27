@@ -3,7 +3,9 @@
 - title: Home
   url: /
 - title: Posts
-  url: /posts/
+  url: /_posts/
+- title: Pages
+  url: /_pages/  
 - title: Categories
   url: /categories/
 - title: BravTrav
