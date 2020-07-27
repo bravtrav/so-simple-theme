@@ -89,6 +89,15 @@ defaults:
       layout: post
       share: true
 
+defaults:
+  # Pages defaults
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: pages
+      share: true      
+
 # Site Author
 author:
   name:
