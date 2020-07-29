@@ -10,8 +10,8 @@ post_date: 2020-07-27 00:49:26
 ---
 <p>Hi.
 My name is Tatiana.
-My interests are in the spheres of engineering and linguistic and the interplay between them.</p>
+I am interested in engineering and linguistic and the interplay between both spheres.</p>
 <p>Check my <a href="https://www.linkedin.com/in/sivenova">bio</a>.</p>
-<p>Contact me if you are interested in my engineering and/or language services.</p>
-<p>Data, Simplicity, Integrity</p>
+<p>Contact me if you like to cooperate with me.</p>
 <p>BravTrav is a play project of mine where I organize my information with added integrity.</p>
+<p>Data, Simplicity, Integrity.</p>
